@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/burger-shop-website-7862-7871/burger_shop_frontend"
+}
